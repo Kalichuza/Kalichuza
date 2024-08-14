@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kalichuza
 - 👀 I’m interested in Powershell and CyberSecurity
-- 🌱 I’m currently learning Scriptin in a Security Context
+- 🌱 I’m currently learning Scripting in a Security Context
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me help@kalichuza.net  
 - 😄 Pronouns: He/Him
