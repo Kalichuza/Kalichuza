@@ -2,7 +2,7 @@
 - 👀 Passionate about **PowerShell** and **Cybersecurity**
 - 🌱 Currently deepening my knowledge in **Security-focused Scripting**
 - 💞️ Open to collaboration on **PowerShell projects, cybersecurity tools, and automation scripts**
-- 📫 Reach me at **help@kalichuza.net**
+- 📫 Reach me at **help@kalichuza.com**
 - 😄 Pronouns: **He/Him**
 - ⚡ Fun fact: **Former linguist and Spanish/English Translator**
 <!---
